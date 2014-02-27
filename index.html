@@ -86,7 +86,9 @@
 			{
 				$("html, body").animate({ scrollTop: 0 }, 1000);
 
-				$.get("recipes/" + name,
+				var time = new Date().getTime();
+
+				$.get("recipes/" + name + "?" + time,
 				function(response)
 				{
 					$("#recipe").html(response);
