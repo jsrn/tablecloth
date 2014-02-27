@@ -81,4 +81,12 @@ table {
 	li {
 		margin-bottom: 10px;
 	}
+
+	hr {
+		border: 0;
+		height: 1px;
+		background-color: $complement2;
+		margin-left: 20%;
+		margin-right: 30%;
+	}
 }
