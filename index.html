@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Tablecloth</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<link href='http://fonts.googleapis.com/css?family=Molle:400italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<a href="https://github.com/jsrn/common.css"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+	<header><span>Tablecloth</span></header>
+
+	<div id="recipe">
+	</div>
+
+	<h1 style="clear: both;">Baking</h1>
+
+	<table>
+		<tr>
+			<td data-name="baking/chewychocolatechipcookies">
+				Chewy chocolate chip cookies
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<h1>Pasta</h1>
+
+	<table>
+		<tr>
+			<td>Chicken bacon pasta salad</td>
+			<td>Mac &amp; cheese</td>
+			<td>Tuna pasta bake</td>
+		</tr>
+	</table>
+
+	<h1>Fish</h1>
+
+	<table>
+		<tr>
+			<td>Beer battered fish</td>
+			<td>Sea bass</td>
+			<td></td>
+		</tr>
+	</table>
+
+	<h1>Stew</h1>
+
+	<table>
+		<tr>
+			<td>Paprika chicken</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<h1>Sauces</h1>
+
+	<table>
+		<tr>
+			<td>Simple teriyaki</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<h1>Misc</h1>
+
+	<table>
+		<tr>
+			<td>Chicken stroganoff</td>
+			<td>Mashed sweet potato</td>
+			<td></td>
+		</tr>
+	</table>
+
+	<script src="scripts/jquery.js"></script>
+	<script type="text/javascript">
+		$("table td").click(function(){
+			var name = $(this).attr("data-name");
+
+			if(name != undefined)
+			{
+				$.get("recipes/" + name,
+				function(response)
+				{
+					$("#recipe").html(response);
+					$("#recipe").css("display","block");
+					$("#recipe").animate({
+						height: 1000,
+						opacity: 1
+					}, 1000);
+				});
+			}
+		});
+
+		$("header span").click(function(){
+			$("#recipe").animate({
+				height: 0,
+				opacity: 0
+			}, 1000, function(){
+				$("#recipe").css("display","none");
+			});
+		});
+	</script>
+</body>
+</html>

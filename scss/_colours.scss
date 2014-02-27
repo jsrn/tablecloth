@@ -1,0 +1,33 @@
+// A selection of attractive base colours from http://clrs.cc/
+// Navy:  #001F3F     Green:  #2ECC40     Maroon:  #85144B
+// Blue:  #0074D9     Lime:   #01FF70     Fuchsia: #F012BE
+// Aqua:  #7FDBFF     Yellow: #FFDC00     Purple:  #B10DC9
+// Teal:  #39CCCC     Orange: #FF851B     White:   #FFFFFF
+// Olive: #3D9970     Red:    #FF4136     Silver:  #DDDDDD
+//             Gray: #AAAAAA     Black: #111111
+
+$main: #669999;
+$complement1: adjust-hue($main, 180);
+$complement2: darken( $complement1, 5%);
+$lighter: lighten($main, 15%);
+$lightest: lighten($main, 30%);
+
+.main {
+  background: $main;
+}
+
+.complement1 {
+  background: $complement1;
+}
+
+.complement2 {
+  background: $complement2;
+}
+
+.lighter {
+  background: $lighter;
+}
+
+.lightest {
+  background: $lightest;
+}
