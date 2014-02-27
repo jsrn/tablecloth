@@ -80,25 +80,31 @@
 
 	<script src="scripts/jquery.js"></script>
 	<script type="text/javascript">
+
+		function loadRecipe(name)
+		{
+			$("html, body").animate({ scrollTop: 0 }, 1000);
+
+			var time = new Date().getTime();
+
+			$.get("recipes/" + name + "?" + time,
+			function(response)
+			{
+				$("#recipe").html(response);
+				$("#recipe").css("display","block");
+				$("#recipe").animate({
+					height: 1000,
+					opacity: 1
+				}, 1000);
+			});
+		}
+
 		$("table td").click(function(){
 			var name = $(this).attr("data-name");
 
 			if(name != undefined)
 			{
-				$("html, body").animate({ scrollTop: 0 }, 1000);
-
-				var time = new Date().getTime();
-
-				$.get("recipes/" + name + "?" + time,
-				function(response)
-				{
-					$("#recipe").html(response);
-					$("#recipe").css("display","block");
-					$("#recipe").animate({
-						height: 1000,
-						opacity: 1
-					}, 1000);
-				});
+				loadRecipe(name);
 			}
 		});
 
@@ -114,6 +120,13 @@
 				});
 			}
 		});
+
+		var hash = window.location.hash.substr(1);
+
+		if( hash != "" )
+		{
+			loadRecipe(hash);
+		}
 	</script>
 </body>
 </html>
