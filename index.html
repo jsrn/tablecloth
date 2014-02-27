@@ -103,12 +103,16 @@
 		});
 
 		$("header").click(function(){
-			$("#recipe").animate({
-				height: 0,
-				opacity: 0
-			}, 1000, function(){
-				$("#recipe").css("display","none");
-			});
+			console.log($("#recipe").css("display"));
+			if($("#recipe").css("display") != "none")
+			{
+				$("#recipe").animate({
+					height: 0,
+					opacity: 0
+				}, 1000, function(){
+					$("#recipe").css("display","none");
+				});
+			}
 		});
 	</script>
 </body>
