@@ -18,6 +18,10 @@ header {
 	text-shadow: 1px 1px $complement2;
 }
 
+header:hover {
+	cursor: pointer;
+}
+
 h1 {
 	color: $complement1;
 	text-shadow: 1px 1px $complement2;
