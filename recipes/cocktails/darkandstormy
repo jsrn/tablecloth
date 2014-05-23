@@ -1,12 +1,24 @@
-Dark & Stormy
+<h2>Dark &amp; Stormy/h2>
 
-Ingredients
-2oz Dark Rum
-3oz Ginger Beer
-1 citrus wedge
-Ice
+<div>
+	<h3>Ingredients</h3>
 
-Method
-Fill glass with ice
-Mix rum and ginger beer in glass
-Garnish with citrus wedge
+	<ul>
+		<li>2oz Dark Rum</li>
+		<li>3oz Ginger Beer</li>
+		<li>1 citrus wedge</li>
+		<li>Ice</li>
+	</ul>
+</div>
+
+<div>
+	<h3>Method</h3>
+
+	<ul>
+		<li>Fill glass with ice</li>
+		<li>Mix rum and ginger beer in glass</li>
+		<li>Garnish with citrus wedge</li>
+	</ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/darkandstormy
