@@ -1,9 +1,21 @@
-Blue Sky
+<h2>Blue Sky</h2>
 
-Ingredients
-1 part Blue Curacao liqueur
-2 parts bitter lemon soda
-ice cubes
+<div>
+	<h3>Ingredients</h3>
 
-Method
-Mix in a highball glass. Stir. Garnish with a slice of lemon.
+	<ul>
+		<li>1 part Blue Curacao liqueur</li>
+		<li>2 parts bitter lemon soda</li>
+		<li>Ice cubes</li>
+	</ul>
+</div>
+
+<div>
+	<h3>Method</h3>
+
+	<ul>
+		<li>Mix in a highball glass. Stir. Garnish with a slice of lemon.</li>
+	</ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluesky
