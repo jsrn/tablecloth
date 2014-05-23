@@ -12,9 +12,10 @@
 </div>
 
 <div>
-  <ul>
-    <li>Method</li>
-    <i>Add ice to whisky glass</li>
-    <li>Add 25ml syrup (or to taste)</li>
+	<h3>Method<//h3>
+	
+	<ul>
+		<li>Add ice to whisky glass</li>
+		<li>Add 25ml syrup (or to taste)</li>
   </ul>
 </div>
