@@ -1,15 +1,27 @@
-The Old Fashioned
+<h2>Old Fashioned</h2>
 
-Ingredients
-2 oz bourbon whiskey
-2 dashes Angostura® bitters
-1 splash water
-1 tsp sugar
-1 maraschino cherry
-1 orange wedge
+<div>
+	<h3>Ingredients</h3>
+	
+	<ul>
+		<li>2 oz bourbon whiskey</li>
+		<li>2 dashes Angostura® bitters</li>
+		<li>1 splash water</li>
+		<li>1 tsp sugar</li>
+		<li>1 maraschino cherry</li>
+		<li>1 orange wedge</li>
+  </ul>
+</div>
 
-Method
-Mix sugar, water and angostura bitters in an old-fashioned glass
-Drop in a cherry and an orange wedge
-Muddle into a paste using a muddler or the back end of a spoon
-Pour in bourbon, fill with ice cubes, and stir
+<div>
+	<h3>Method<//h3>
+	
+	<ul>
+		<li>Mix sugar, water and angostura bitters in an old-fashioned glass</li>
+		<li>Drop in a cherry and an orange wedge</li>
+		<li>Muddle into a paste using a muddler or the back end of a spoon</li>
+		<li>Pour in bourbon, fill with ice cubes, and stir</li>
+  </ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/oldfashioned
