@@ -1,11 +1,23 @@
-Bluebird
+<h2>Bluebird</h2>
 
-Ingredients
-2 oz Gin
-1 oz Triple Sec
-1 oz Blue Curecao
-2 dashes Bitters
+<div>
+	<h3>Ingredients</h3>
 
-Method
-Shake all the ingredients in a shaker with ice and strain into a cocktail glass
-Garnish with cherry
+	<ul>
+		<li>2 oz Gin</li>
+		<li>1 oz Triple Sec</li>
+		<li>1 oz Blue Curecao</li>
+		<li>2 dashes Bitters</li>
+	</ul>
+</div>
+
+<div>
+	<h3>Method</h3>
+
+	<ul>
+		<li>Shake all the ingredients in a shaker with ice and strain into a cocktail glass</li>
+		<li>Garnish with cherry</li>
+	</ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluebird
