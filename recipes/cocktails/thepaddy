@@ -1,9 +1,21 @@
-The Paddy
+<h2>The Paddy</h2>
 
-Ingredients
-No fucks
+<div>
+	<h3>Ingredients</h3>
+	
+	<ul>
+		<li>No fucks</li>
+  </ul>
+</div>
 
-Method
-Get glass
-Add ice
-Add whisky
+<div>
+	<h3>Method</h3>
+	
+	<ul>
+		<li>Get glass</li>
+		<li>Add ice</li>
+		<li>Add whisky</li>
+  </ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/thepaddy
