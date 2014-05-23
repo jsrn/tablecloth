@@ -1,13 +1,25 @@
-G&T
+<h2>Gin &amp; Tonic</h2>
 
-Ingredients
-50ml Gin
-Tonic
-Ice
-Citrus wedge
+<div>
+	<h3>Ingredients</h3>
 
-Method
-Add ice to highball glass
-Pour gin into glass
-Top glass with gin
-Add citrus wedge if desired
+	<ul>
+		<li>50ml Gin</li>
+		<li>Tonic</li>
+		<li>Ice</li>
+		<li>Citrus wedge</li>
+	</ul>
+</div>
+
+<div>
+	<h3>Method</h3>
+
+	<ul>
+		<li>Add ice to highball glass</li>
+		<li>Pour gin into glass</li>
+		<li>Top glass with gin</li>
+		<li>Add citrus wedge if desired</li>
+	</ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/ginandtonic
