@@ -1,12 +1,23 @@
-Blue Hawaiian
+<h2>Blue Hawaiian</h2>
 
-Ingredients
+<div>
+	<h3>Ingredients</h3>
 
-15ml light rum
-15ml blue curacao
-30ml pineapple juice
-15ml coconut cream
-Ice
+	<ul>
+		<li>15ml light rum</li>
+		<li>15ml blue curacao</li>
+		<li>30ml pineapple juice</li>
+		<li>15ml coconut cream</li>
+		<li>Ice</li>
+	</ul>
+</div>
 
-Method
-Mix all ingredients together in glass
+<div>
+	<h3>Method</h3>
+
+	<ul>
+		<li>Mix all ingredients together in glass</li>
+	</ul>
+</div>
+
+Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluehawaiian
