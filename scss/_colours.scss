@@ -6,8 +6,9 @@
 // Olive: #3D9970     Red:    #FF4136     Silver:  #DDDDDD
 //             Gray: #AAAAAA     Black: #111111
 
-$main: #669999;
+$main: #B4DECF;
 $complement1: adjust-hue($main, 180);
+$complement1: darken($complement1, 20%);
 $complement2: darken( $complement1, 5%);
 $lighter: lighten($main, 15%);
 $lightest: lighten($main, 30%);

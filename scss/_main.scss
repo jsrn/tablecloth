@@ -1,21 +1,23 @@
 body {
-	background-color: $lighter;
-	color: $complement2;
+	background-color: white;
+	color: #47588D;
 	font-size: 1.5em;
 	height: 100%;
 	font-family: 'Bad Script', sans-serif;
 }
 
 header {
-	background-color: $main;
+	color: white;
+	background-color: #b4decf;
 	font-family: Molle;
 	padding: 10px;
 	font-style: italic;
 	line-height: 100px;
 	height: 100px;
 	font-size: 80px;
-	color: $complement1;
-	text-shadow: 1px 1px $complement2;
+	text-shadow: 2px -2px 0 #47588D, 2px -2px 0 #47588D, -2px 2px 0 #47588D, 2px 2px 0 #47588D;
+	background-image: url("checkers.png");
+	border-bottom: solid 3px #47588D;
 }
 
 header:hover {
@@ -23,8 +25,7 @@ header:hover {
 }
 
 h1 {
-	color: $complement1;
-	text-shadow: 1px 1px $complement2;
+	text-shadow: 1px 1px #0A2352;
 	font-size: 50px;
 	font-style: italic;
 	font-family: Molle;
