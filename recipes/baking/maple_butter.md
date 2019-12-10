@@ -1,7 +1,7 @@
 # Maple Butter
 
 ## Ingredients
-* 4 tbsp butter, room temperature
+* 4 tbsp (56g) butter, room temperature
 * 1 US cup icing sugar
 * 2 tbsp maple syrup
 
