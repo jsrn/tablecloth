@@ -12,3 +12,4 @@
 
 ## Notes
 * Makes approximately 36 two inch sandwich cookies
+* Source: https://alldayidreamaboutfood.com/maple-cream-sandwich-cookies/
