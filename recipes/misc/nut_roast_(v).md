@@ -5,11 +5,11 @@
 * 1 onion finely sliced
 * 50g sun-dried tomatoes oil reserved, drained and chopped
 * 2 cloves garlic crushed
-* 50 g dried apricots chopped
-* 200 g mixed nuts chopped
-* 50 g mixed seeds
+* 50g dried apricots chopped
+* 200g mixed nuts chopped
+* 50g mixed seeds
 * 1.5 tsp dried mixed herbs
-* 1 tsp soy sauce*
+* 1 tsp soy sauce
 * 1 carrot grated
 * 1 tsp turmeric powder
 * salt and pepper
