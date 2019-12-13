@@ -4,7 +4,7 @@
 * 2.5 cups all purpose flour
 * 2 tsp baking powder
 * 0.25 tsp salt
-* 1 cup butter, room temperature
+* 225g butter, room temperature
 * 1 cup sugar
 * 1/2 cup brown sugar
 * 1 large egg
