@@ -19,5 +19,6 @@
 8. Add the potatoes to the hot oven tin and roll until coated with oil.
 9. Spread them into a single layer.
 10. Cook them for 15 minutes, turn them, cook them for another 15 minutes, turn them, and then cook them for 10-20 minutes until golden and crisp.
+11. Serve with salt.
 
 From: https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes
