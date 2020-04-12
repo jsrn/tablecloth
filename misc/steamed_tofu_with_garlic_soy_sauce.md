@@ -21,5 +21,4 @@
 4. Heat oil in a small pot and then drizzle the hot oil on garlic and scallion. Then mix in all the other sauces.
 5. Drizzle the sauce over the steamed tofu and serve the dish hot.
 
-
 From https://www.chinasichuanfood.com/steamed-tofu/
