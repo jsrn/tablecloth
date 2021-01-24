@@ -12,7 +12,7 @@
 * a little salt
 
 ## Method
-1. Peel, cross and boil the sprouts with the sugar and vinegar
+1. Peel, cross and boil the sprouts with the sugar and vinegar for about five minutes
 2. Fry the garlic and shallots (and maybe bacon bits) in olive oil
-3. Add the sprotus and toss 'em about
+3. Add the sprouts and toss 'em about
 4. Season with balsamic vinegar and salt to taste
