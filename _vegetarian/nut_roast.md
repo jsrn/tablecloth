@@ -1,4 +1,7 @@
-# Nut Roast
+---
+layout: recipe
+name: Nut Roast
+---
 
 ## Ingredients
 * 200g red lentils
