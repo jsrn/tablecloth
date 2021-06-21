@@ -6,7 +6,7 @@ name: Roast Potatoes
 ## Ingredients
 
 * 1kg roasting potatoes
-* 100g duck or goose fat, or 100ml olive oil
+* 100ml olive oil (but you can use 100g duck/goose fat if nobody is vegetarian!)
 * 2 tsp flour
 * salt
 
