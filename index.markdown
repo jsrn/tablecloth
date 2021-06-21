@@ -10,17 +10,17 @@ layout: default
 ## Baking
 
 {% for recipe in site.baking %}
-  <div><a href="{{ recipe.url }}">{{ recipe.name }}</a></div>
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
 ## Cocktails
 
 {% for recipe in site.cocktails %}
-  <div><a href="{{ recipe.url }}">{{ recipe.name }}</a></div>
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
 ## Fish
 
 {% for recipe in site.fish %}
-  <div><a href="{{ recipe.url }}">{{ recipe.name }}</a></div>
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
