@@ -41,6 +41,8 @@ collections:
     output: true
   cocktails:
     output: true
+  fish:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
