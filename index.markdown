@@ -7,20 +7,36 @@ layout: default
 
 # Tablecloth
 
-## Baking
+## 🍞 Baking
 
 {% for recipe in site.baking %}
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-## Cocktails
 
-{% for recipe in site.cocktails %}
+## 🥩 Beef
+
+{% for recipe in site.beef %}
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-## Fish
+
+## 🎣 Fish
 
 {% for recipe in site.fish %}
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
+
+
+## 🥬 Vegetarian
+
+{% for recipe in site.vegetarian %}
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
+
+
+## 🍹 Cocktails
+
+{% for recipe in site.cocktails %}
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
