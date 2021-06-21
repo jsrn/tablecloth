@@ -1,4 +1,7 @@
-# Yeastless Pizza Dough
+---
+layout: recipe
+name: Yeastless Pizza Dough
+---
 
 ## Ingredients
 

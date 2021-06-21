@@ -1,8 +1,11 @@
-<h2>Sangria de Cava</h2>
+---
+layout: recipe
+name: Sangria de Cava
+---
 
 <div>
 	<h3>Ingredients</h3>
-	
+
 	<ul>
 		<li>Cava (sparkling white wine)</li>
 		<li>Orangeade</li>
@@ -16,7 +19,7 @@
 
 <div>
 	<h3>Method</h3>
-	
+
 	<ul>
 		<li>Put ice cubes in a large glass</li>
 		<li>Add wine, orangeade and lemonade in equal thirds (or to taste)</li>
@@ -24,5 +27,3 @@
 		<li>Add fruit slices to garnish</li>
   </ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/sangriadecava

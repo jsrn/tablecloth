@@ -1,8 +1,11 @@
-<h2>G &amp; Tea</h2>
+---
+layout: recipe
+name: G and Tea
+---
 
 <div>
   <h3>Ingredients</h3>
-  
+
   <ul>
     <li>25ml gin</li>
     <li>Tonic water</li>
@@ -13,12 +16,10 @@
 
 <div>
   <h3>Method</h3>
-  
+
   <ul>
     <li>Add gin to highball glass</li>
     <li>Add tonic water and tea in 2:1 ratio</li>
     <li>Add rind to garnish</li>
   </ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/gandtea

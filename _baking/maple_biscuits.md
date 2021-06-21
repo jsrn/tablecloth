@@ -1,4 +1,7 @@
-# Maple Biscuits
+---
+layout: recipe
+name: Maple Biscuits
+---
 
 ## Ingredients
 * 2.5 cups all purpose flour

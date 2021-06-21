@@ -1,4 +1,7 @@
-<h2>Dark &amp; Stormy</h2>
+---
+layout: recipe
+name: Dark and Stormy
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -20,5 +23,3 @@
 		<li>Garnish with citrus wedge</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/darkandstormy

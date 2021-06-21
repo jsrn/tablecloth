@@ -1,8 +1,12 @@
-<h2>Old Fashioned</h2>
+---
+layout: recipe
+name: Old Fashioned
+---
+
 
 <div>
 	<h3>Ingredients</h3>
-	
+
 	<ul>
 		<li>2 oz bourbon</li>
 		<li>2 dashes Angostura® bitters</li>
@@ -15,7 +19,7 @@
 
 <div>
 	<h3>Method</h3>
-	
+
 	<ul>
 		<li>Mix sugar, water and angostura bitters in an old-fashioned glass</li>
 		<li>Drop in a cherry and an orange wedge</li>
@@ -23,5 +27,3 @@
 		<li>Pour in bourbon, fill with ice cubes, and stir</li>
   </ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/oldfashioned

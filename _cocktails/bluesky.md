@@ -1,4 +1,7 @@
-<h2>Blue Sky</h2>
+---
+layout: recipe
+name: Blue Sky
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -17,5 +20,3 @@
 		<li>Mix in a highball glass. Stir. Garnish with a slice of lemon</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluesky

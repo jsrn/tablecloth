@@ -1,4 +1,7 @@
-<h2>Blue Hawaiian</h2>
+---
+layout: recipe
+name: Blue Hawaiian
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -19,5 +22,3 @@
 		<li>Mix all ingredients together in glass</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluehawaiian

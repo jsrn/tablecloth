@@ -1,4 +1,7 @@
-<h2>Big Easy Blue Punch</h2>
+---
+layout: recipe
+name: Big Easy Blue Punch
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -20,5 +23,3 @@
 		<li>Top with pineapple soda and garnish with lemon wheel</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bigeasybluepunch

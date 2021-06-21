@@ -1,4 +1,7 @@
-<h2>Gin &amp; Tonic</h2>
+---
+layout: recipe
+name: Gin & Tonic
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -21,5 +24,3 @@
 		<li>Add citrus wedge if desired</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/ginandtonic

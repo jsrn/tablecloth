@@ -1,4 +1,7 @@
-<h2>Bluebird</h2>
+---
+layout: recipe
+name: Bluebird
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -19,5 +22,3 @@
 		<li>Garnish with cherry</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/bluebird

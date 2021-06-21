@@ -1,4 +1,7 @@
-<h2>Ginger Swing</h2>
+---
+layout: recipe
+name: Ginger Swing
+---
 
 <div>
 	<h3>Ingredients</h3>
@@ -16,5 +19,3 @@
 		<li>Pour curacao over ice in a highball glass, then fill the rest of the way up with ginger ale</li>
 	</ul>
 </div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/gingerswing

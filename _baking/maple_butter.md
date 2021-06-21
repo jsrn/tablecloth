@@ -1,4 +1,7 @@
-# Maple Butter
+---
+layout: recipe
+name: Maple Butter
+---
 
 ## Ingredients
 * 4 tbsp (56g) butter, room temperature

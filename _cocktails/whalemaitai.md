@@ -1,8 +1,11 @@
-<h2>Whale Mai Tai<h2>
+---
+layout: recipe
+name: Whale Mai Tai
+---
 
 <div>
   <h3>Ingredients</h3>
-  
+
   <ul>
     <li>Rum</li>
     <li>Curacao</li>

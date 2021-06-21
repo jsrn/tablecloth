@@ -1,8 +1,11 @@
-<h2>Gordon's Fizz</h2>
+---
+layout: recipe
+name: Gordon's Fizz
+---
 
 <div>
   <h3>Ingredients</h3>
-  
+
   <ul>
     <li>Ice</li?>
     <li>25ml Gin</li>
@@ -13,7 +16,7 @@
 
 <div>
   <h3>Method</h3>
-  
+
   <ul>
     <li>Add ice to champagne glass</li>
     <li>Add gin</li>
@@ -21,5 +24,3 @@
     <li>Garnish with lemon rind</li>
   </ul>
 <div>
-
-Link to this recipe: http://jsrn.net/tablecloth/#cocktails/gordonfizz

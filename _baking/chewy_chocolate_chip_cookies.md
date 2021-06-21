@@ -1,4 +1,7 @@
-# Chewy Chocolate Chip Cookies
+---
+layout: recipe
+name: Chewy Chocolate Chip Cookies
+---
 
 ## Ingredients
 * 250g plain flour
