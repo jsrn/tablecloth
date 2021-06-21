@@ -1,4 +1,7 @@
-# Teresa's Brussel Sprouts
+---
+layout: recipe
+name: Teresa's Brussel Sprouts
+---
 
 ## Ingredients
 * 500g brussel sprouts

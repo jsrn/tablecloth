@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Tablecloth</title>
-	<link rel="stylesheet" href="../../css/normalize.css">
-	<link rel="stylesheet" href="../../css/stylesheet.css">
-</head>
-<body>
-	<h1>Kale Chips</h1>
-
-	<div class="recipe-card">
+---
+layout: recipe
+name: Kale Chips
+---
 
 ## Ingredients
-
 
 * a few handfuls of kale, chopped into bite size pieces
 * olive oil
@@ -20,16 +11,8 @@
 * pepper
 
 
-
-
 ## Method
-
 
 * Heat the oven to 180&deg;C
 * Spread the kale out in a pan, drizzle with oil, add a few shakes of salt and pepper, toss until mixed
 * Bake the kale, tossing every 5 minutes until crispy
-
-
-
-</body>
-</html>

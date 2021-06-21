@@ -1,5 +1,7 @@
-# Honey Roast Parsnips
-
+---
+layout: recipe
+name: Honey Roast Parsnips
+---
 ## Ingredients
 
 * 500g parsnips
@@ -7,6 +9,7 @@
 * 1 tbsp honey
 * 2 tbsp sunflower oil
 * 2 tbsp butter
+
 
 ## Method
 

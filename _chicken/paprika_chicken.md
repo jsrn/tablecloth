@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Tablecloth</title>
-	<link rel="stylesheet" href="../../css/normalize.css">
-	<link rel="stylesheet" href="../../css/stylesheet.css">
-</head>
-<body>
-	<h1>Paprika Chicken</h1>
-
-	<div class="recipe-card">
+---
+layout: recipe
+name: Paprika Chicken
+---
 
 ## Ingredients
-
 
 * 250g chicken
 * 2 tbsp olive oil
@@ -29,10 +20,7 @@
 * 2 chicken stock cubes
 
 
-
-
 ## Method
-
 
 * Rub the chicken pieces with the salt. Heat the oil and butter in a large heavy-bottomed pan and brown the chicken all over for a few minutes. Remove the chicken from the pan and set to one side.
 * To the same pan, add the onions and garlic and sweat for about five minutes. Add the sweet and hot paprika, then the flour, and stir until combined - take care not to burn it.
@@ -40,8 +28,3 @@
 * Add half of the chopped parsley and bring to the boil. Add the red pepper strips, reduce the heat and simmer for 10 minutes.
 * Stir in the tomatoes and simmer gently for about one hour.
 * When the chicken is cooked, remove the pan from the heat. Stir in the sour cream and the remaining parsley. Check the seasoning and serve.
-
-
-
-</body>
-</html>

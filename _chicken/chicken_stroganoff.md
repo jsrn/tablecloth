@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Tablecloth</title>
-	<link rel="stylesheet" href="../../css/normalize.css">
-	<link rel="stylesheet" href="../../css/stylesheet.css">
-</head>
-<body>
-	<h1>Chicken Stroganoff</h1>
-
-	<div class="recipe-card">
+---
+layout: recipe
+name: Chicken Stroganoff
+---
 
 ## Ingredients
-
 
 * 250-300g diced chicken
 * 300ml sour cream
@@ -24,10 +15,7 @@
 * paprika
 
 
-
-
 ## Method
-
 
 * Slice onions, mushrooms and chicken breast
 * Fry onions
@@ -37,8 +25,3 @@
 * Add stock
 * Add sour cream
 * Add more salt, pepper and paprika to taste
-
-
-
-</body>
-</html>

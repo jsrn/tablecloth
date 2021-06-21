@@ -1,4 +1,7 @@
-# Roast Potatoes
+---
+layout: recipe
+name: Roast Potatoes
+---
 
 ## Ingredients
 

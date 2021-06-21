@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Tablecloth</title>
-	<link rel="stylesheet" href="../../css/normalize.css">
-	<link rel="stylesheet" href="../../css/stylesheet.css">
-</head>
-<body>
-	<h1>Chicken &amp; Leek Pie</h1>
-
-	<div class="recipe-card">
+---
+layout: recipe
+name: Chicken Leek Pie
+---
 
 ## Ingredients
-
 
 * 1.5kg whole chicken
 * 1/2 tsp peppercorns
@@ -33,10 +24,7 @@
 * beaten egg, for glazing
 
 
-
-
 ## Method
-
 
 * Put the chicken into a deep pan that is just large enough to hold it quite snugly. Pour in enough water to half cover the bird, then tip in the peppercorns, bay leaves, thyme and onion. Add the salt and bring to the boil on the hob, then reduce the heat, cover tightly and simmer for 1-11⁄4 hours until tender.
 * Transfer the chicken to a plate. Strain 425ml/3⁄4 pint of the stock into a measuring jug (top up with water if you need to). Strip the meat off the chicken, cut into bite-sized pieces and put in a 1.7 litre/3 pint pie dish.
@@ -45,8 +33,3 @@
 * Tap the blade of a small sharp knife all along the outside edge of the pastry (this helps the edge to rise during cooking), then flute it using the back of the knife. Make a hole in the lid centre with the tip of the knife, to allow steam to escape as the pie bakes.
 * Roll out the pastry you put aside earlier. Cut 8 long strips each about 1cm/1⁄2in wide, and two more strips each about 4cm/11⁄2in wide. Cut the wider strips diagonally to make eight diamond leaf shapes. Mark the veins of the leaves with the tip of a sharp knife. Brush the pastry lid with beaten egg, then lay the 8 thin strips on top, as in the picture. Brush again with egg and arrange the leaves in the centre, between the strips. Brush with egg.
 * Chill the pie for 15 mins, if you have time, to set the pastry. (Can be made a day ahead up to this point. Keep chilled and add 4-5 extra minutes at baking time.) Bake for 30 - 35 miutes until the pastry is crisp, puffed up and deep golden brown.)
-
-
-
-</body>
-</html>
