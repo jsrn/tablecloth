@@ -47,6 +47,10 @@ collections:
     output: true
   vegetarian:
     output: true
+  sauces:
+    output: true
+  chicken:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

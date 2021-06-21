@@ -1,4 +1,9 @@
-# Fancy Rice
+---
+layout: recipe
+name: Fancy Rice
+---
+
+## Method
 
 * Measure out the amount of rice you want
 * Wash the rice

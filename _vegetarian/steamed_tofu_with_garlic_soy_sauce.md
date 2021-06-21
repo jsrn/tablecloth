@@ -1,5 +1,7 @@
-# Steamed Tofu with Garlic and Soy Sauce
-
+---
+layout: recipe
+name: Steamed Tofu with Garlic and Soy Sauce
+---
 ## Ingredients
 
 * 2 tbsp. light soy sauce , I use low sodium
