@@ -35,6 +35,13 @@ layout: default
 {% endfor %}
 
 
+## 🐽 Pork
+
+{% for recipe in site.pork %}
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
+
+
 ## 🥫 Sauces
 
 {% for recipe in site.sauces %}
