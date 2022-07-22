@@ -61,3 +61,9 @@ layout: default
 {% for recipe in site.cocktails %}
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
+
+## ☕️ Drinks
+
+{% for recipe in site.drinks %}
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
