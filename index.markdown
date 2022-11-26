@@ -41,6 +41,12 @@ layout: default
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
+## 🥣 Soup
+
+{% for recipe in site.soup %}
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
+
 
 ## 🥫 Sauces
 

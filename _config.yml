@@ -37,6 +37,8 @@ plugins:
 # include: ['baking']
 
 collections:
+  soup:
+    output: true
   baking:
     output: true
   cocktails:
