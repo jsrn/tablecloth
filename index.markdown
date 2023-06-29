@@ -7,6 +7,13 @@ layout: default
 
 # Tablecloth
 
+## Techniques
+
+{% for recipe in site.techniques %}
+
+  <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
+{% endfor %}
+
 ## Baking
 
 {% for recipe in site.baking %}
