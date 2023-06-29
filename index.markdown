@@ -7,69 +7,72 @@ layout: default
 
 # Tablecloth
 
-## 🍞 Baking
+## Baking
 
 {% for recipe in site.baking %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🥩 Beef
+## Beef
 
 {% for recipe in site.beef %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🍗 Chicken
+## Chicken
 
 {% for recipe in site.chicken %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🎣 Fish
+## Fish
 
 {% for recipe in site.fish %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🐽 Pork
+## Pork
 
 {% for recipe in site.pork %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-## 🥣 Soup
+## Soup
 
 {% for recipe in site.soup %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🥫 Sauces
+## Sauces
 
 {% for recipe in site.sauces %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🥬 Vegetarian
+## Vegetarian
 
 {% for recipe in site.vegetarian %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-
-## 🍹 Cocktails
+## Cocktails
 
 {% for recipe in site.cocktails %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
 
-## ☕️ Drinks
+## Drinks
 
 {% for recipe in site.drinks %}
+
   <div><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a></div>
 {% endfor %}
