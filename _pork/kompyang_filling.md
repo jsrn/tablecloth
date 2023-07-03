@@ -1,14 +1,15 @@
 ---
 layout: recipe
-name: Kompyang Filling
+name: Kompyang filling
 ---
+
+Kompyang, a.k.a. Foochow bagels.
 
 ## Ingredients
 
-* 4 (smashed) garlic cloves
-* 1kg belly pork
-* 1-2 tsp sugar per 500g pork
-
+- 4 (smashed) garlic cloves
+- 1kg belly pork
+- 1-2 tsp sugar per 500g pork
 
 ## Method
 
