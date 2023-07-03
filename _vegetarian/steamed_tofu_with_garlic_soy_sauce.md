@@ -1,19 +1,20 @@
 ---
 layout: recipe
-name: Steamed Tofu with Garlic and Soy Sauce
+name: Steamed tofu with garlic and soy sauce
 ---
+
 ## Ingredients
 
-* 2 tbsp. light soy sauce , I use low sodium
-* 1 tbsp. oyster sauce
-* 1 tbsp. sesame oil
-* 1 tbsp. dried small shrimp or roasted peanuts
-* 1 tbsp. chopped scallion and coriander or scallion only
-* 2 fresh Thai pepper optional, cut into small sections
-* 1/2 tsp. salt , or to taste
-* 1/2 tsp. sugar
-* 1/2 tbsp. black vinegar
-* 2 garlic cloves
+- 2 tbsp. light soy sauce , I use low sodium
+- 1 tbsp. oyster sauce
+- 1 tbsp. sesame oil
+- 1 tbsp. dried small shrimp or roasted peanuts
+- 1 tbsp. chopped scallion and coriander or scallion only
+- 2 fresh Thai pepper optional, cut into small sections
+- 1/2 tsp. salt , or to taste
+- 1/2 tsp. sugar
+- 1/2 tbsp. black vinegar
+- 2 garlic cloves
 
 ## Method
 

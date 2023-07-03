@@ -1,6 +1,6 @@
 ---
 layout: recipe
-name: Kompyang filling
+name: Kompyang (a.k.a. Foochow bagel) filling
 ---
 
 Kompyang, a.k.a. Foochow bagels.
