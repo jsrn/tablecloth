@@ -20,7 +20,7 @@ name: Nut roast
 
 ## Instructions
 
-1. Preheat the oven to 180°C
+1. Preheat the oven to 180&deg;C
 2. Cook the lentils in plenty of water for 15 minutes, then drain using a fine sieve.
 3. While the lentils cook, heat a little of the sun-dried tomato oil in your largest frying pan and gently fry the onion for 5 minutes until softened.
 4. Add all the other ingredients, except the seasoning.
