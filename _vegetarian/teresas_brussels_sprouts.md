@@ -1,11 +1,11 @@
 ---
 layout: recipe
-name: Teresa's Brussel sprouts
+name: Teresa's Brussels sprouts
 ---
 
 ## Ingredients
 
-- 500g brussel sprouts
+- 500g Brussels sprouts
 - 0.5 tsp granulated sugar
 - 1 tsp vinegar
 - olive oil
