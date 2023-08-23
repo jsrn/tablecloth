@@ -18,7 +18,7 @@ name: Baba ganoush
 ## Method
 
 1. Blister the aubergines on the hob until soft, with the skin blackened and blistered all over. The skin should be coming off in flakes.
-2. Peel off and discard the vast majority of the skin. Whatever's left will contribute to the lovely smokey flabvour.
+2. Peel off and discard the vast majority of the skin. Whatever's left will contribute to the lovely smokey flavour.
 3. Add them to a blender, along with:
   - 30ml of the oil
   - The coriander, cumin, tahini and lemon
